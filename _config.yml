@@ -1,3 +1,8 @@
 remote_theme: QuaereMe/Balzac-for-Jekyll
 title: Quaere Me
 description: MBA & API musings by Christopher Bartz
+
+links:
+  - title: Store
+    url: https://store.quaere.me
+    external: true
