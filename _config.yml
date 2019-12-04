@@ -1,6 +1,12 @@
 remote_theme: QuaereMe/Balzac-for-Jekyll
 title: Quaere Me
-description: MBA & API musings by Christopher Bartz
+description: A Blog by Christopher Bartz
+canonical: https://quaere.me
+
+# Owner/author information
+owner:
+  twitter:        QuaereMe
+  github:         QuaereMe
 
 links:
   - title: Store
