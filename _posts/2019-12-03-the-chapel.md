@@ -6,8 +6,9 @@ category: articles
 ---
 
 > Forsan et haec olim meminisse juvabit
-> Perhaps even this, one day, will be a happy memory.
-> _Aeneid 1.203_
+
+*Perhaps even this, one day, will be a happy memory.*
+Aeneid 1.203
 
 So said the white coffee mug, branded black and white with a woodcut. "The College of St. Thomas More," it continued. The vessel would be used for coffee hour after Sunday Mass, in a warmly lit single-story house that had been converted into something of a modest refectory and academic hall. The kids would play in the courtyard next to the statue of Mary, under the Texas sky.
 
@@ -15,7 +16,7 @@ The school was originally Anglo-Cath (or perhaps Cath-Anglo), and Oxfordian in s
 
 It was purely a Liberal Arts school. The Chancellor started it some time after the departure of the legendary Drs. Cowan from the University of Dallas. UD had drifted from its liberal arts core to embrace other majors, and the Chancellor, as I understand it, saw this as displacing Theology and Philosophy from their rightful places as Queen and Handmaid of the Sciences.
 
-The _heart_ of the sciences, perhaps, was not Theology or Philosophy, but literature. The most beloved of the professors was Dr. S., a student of Louise Cowan. Genres, heroes, and the artists' portraits of the human condition taught many classes just what it meant to be a person.
+The *heart* of the sciences, perhaps, was not Theology or Philosophy, but literature. The most beloved of the professors was Dr. S., a student of Louise Cowan. Genres, heroes, and the artists' portraits of the human condition taught many classes just what it meant to be a person.
 
 Over the course of a couple decades, the school trundled along. By some, it was seen as the renegade stepchild of UD. By others, it was seen as the Chancellor's attempts to retain the classics in a mad world.
 
@@ -30,7 +31,7 @@ There were a couple problems. For one, the Chancellor was not much of a fundrais
 
 Nevertheless, the chapel was built. Chairs were dedicated. A small loft was constructed, and a Johannus digital organ was put in. At the center of the church was a beautiful Mexican crucifix atop an arched beam, forming something like a rood above the faculty choir stalls at the entrance of the sanctuary. The tabernacle was set in a wall designed to be reredos.
 
-It was an Oxford-style sanctuary for an Oxford-style school, in Oxford-style Fort Worth, Texas. At least, that's what the liturgical traditionalists of the diocese gravitated towards. Spared from the wreckovations in Dallas, the Fort Worth Cathedral had, for years, been a paragon of liturgy, with Mozart and Haydn Masses. When that started changing, some parishioners began frequenting St. Mary the Virgin in Arlington, which had converted _en masse_ in the 90's. I was a newborn when its pastor, the delightfully English Fr. H., was re-ordained in the Cathedral.
+It was an Oxford-style sanctuary for an Oxford-style school, in Oxford-style Fort Worth, Texas. At least, that's what the liturgical traditionalists of the diocese gravitated towards. Spared from the wreckovations in Dallas, the Fort Worth Cathedral had, for years, been a paragon of liturgy, with Mozart and Haydn Masses. When that started changing, some parishioners began frequenting St. Mary the Virgin in Arlington, which had converted *en masse* in the 90's. I was a newborn when its pastor, the delightfully English Fr. H., was re-ordained in the Cathedral.
 
 In those days, to be liturgically traditionalist in the diocese meant to lean Anglo-Cath: to love the liturgy, and choral singing, and sound scriptural exegesis, with a healthy dose of patristics. SMV's pastor was far from the only convert in the days before the Ordinariate: the diocesan chancellor, too, was a former Episcopalian and disciple of the Oxford Movement; as was the gracious pastor of St. Mary of the Assumption, where the Fort Worth Latin Mass (also composed largely of cathedral expats) had its slightly ghettoed time slot. In any case, this is the environment which encouraged the Chancellor to build the chapel in this style.
 
