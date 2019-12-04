@@ -5,12 +5,10 @@ description: "A vignette of the College of St. Thomas More"
 category: articles
 ---
 
-{% highlight html linenos %}
 <figure>
 	<img src="/images/chapel-christ-teacher.png">
 	<figcaption>The chapel in its final form.</figcaption>
 </figure>
-{% endhighlight %}
 
 > Forsan et haec olim meminisse juvabit
 
