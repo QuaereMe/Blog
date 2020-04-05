@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "\"Rubrics\" in times of Car Masses"
-description: "Umm..."
+description: "Don't try this at home. Or at church."
 category: articles
 ---
 
